@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epifaniofrancisco
           Programmer
-- 🌱 I’m currently learning artuficial intelligence, application development and Python Languange.
+- 🌱 I’m currently learning artuficial intelligence, application development and Python Language
 - You will see here all my Project's
 - 📫 How to reach me epifaniofrancisco03@gmail.com
 
