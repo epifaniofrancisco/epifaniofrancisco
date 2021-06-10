@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @epifaniofrancisco
           Programmer
-- 🌱 I’m currently learning artuficial intelligence, application development and Python Language
+          Student
 - You will see here all my Project's
-- 📫 How to reach me epifaniofrancisco03@gmail.com
 
+:chart_with_upwards_trend: GitHub Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epifaniofrancisco&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epifaniofrancisco&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epifaniofrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
