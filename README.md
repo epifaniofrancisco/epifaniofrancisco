@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @epifaniofrancisco
-          Programmer
-          Student
+- 👋 Hi, I’m Epifanio Francisco.
+- Programmer.
+- Student.
 - You will see here all my Project's
 
 :chart_with_upwards_trend: GitHub Statistics
