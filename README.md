@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Epifanio Francisco.
+- 👋 Olá, Eu sou Epifanio Francisco.
 - Programador.:computer:
 - Estudante.:books:
 
