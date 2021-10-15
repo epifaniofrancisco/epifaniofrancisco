@@ -11,10 +11,11 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Epifânio-C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-</svg>
   <img align="center" alt="Epifânio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Epifânio-Dart" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
   <img align="center" alt="Epifânio-Dart" " src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Epifânio-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Epifânio-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ## 
 <div> 
