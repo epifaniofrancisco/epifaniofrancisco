@@ -2,8 +2,6 @@
 * Programador.:computer:
 * Estudante.:books:
 
-Portfólio: https://epifaniofrancisco.vercel.app/
-
 <div>
 <img height="180em" src="https://github-readme-stats--epifaniofrancisco.vercel.app/api?username=epifaniofrancisco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats--epifaniofrancisco.vercel.app/api/top-langs/?username=epifaniofrancisco&layout=compact&langs_count=7&theme=react"/>
