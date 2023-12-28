@@ -7,6 +7,8 @@ Portfólio: https://epifaniofrancisco.vercel.app/
 <div>
 <img height="180em" src="https://github-readme-stats--epifaniofrancisco.vercel.app/api?username=epifaniofrancisco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats--epifaniofrancisco.vercel.app/api/top-langs/?username=epifaniofrancisco&layout=compact&langs_count=7&theme=react"/>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643da051e272577374908d67?variant=dark)](https://roadmap.sh)
 </div>
 
 <div style="display: inline_block"><br>
