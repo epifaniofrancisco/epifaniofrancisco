@@ -1,7 +1,7 @@
 * 👋 Olá, Eu sou Epifanio Francisco.
 * Programador.:computer:
 * Estudante.:books:
-
+![Visits](https://img.shields.io/badge/Visits-17075-blue)
 <div>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=epifaniofrancisco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=epifaniofrancisco&layout=compact&langs_count=7&theme=react"/>
