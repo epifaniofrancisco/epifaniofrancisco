@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Epifânio Francisco</h1>
-<h3 align="center">A passionate frontend developer from Angola</h3>
+<h3 align="center">I am a dedicated frontend developer in Angola, passionate about creating engaging and user-friendly web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epifaniofrancisco&label=Profile%20views&color=0e75b6&style=flat" alt="epifaniofrancisco" /> </p>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Web Development Projects** that challenge my skills and creativity.
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I am actively expanding my knowledge in **Web Development**, constantly learning new technologies and best practices.
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I am eager to collaborate with fellow developers and designers on innovative web development projects. Let's create something amazing together!
 
 - 👨‍💻 All of my projects are available at [https://epifaniofrancisco.vercel.app/](https://epifaniofrancisco.vercel.app/)
 
