@@ -46,6 +46,7 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 ##
+
 ![Snake animation](https://github.com/epifaniofrancisco/epifaniofrancisco/blob/output/github-contribution-grid-snake.svg)
 
 <!---
