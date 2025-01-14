@@ -1,35 +1,52 @@
-* 👋 Olá, Eu sou Epifanio Francisco.
-* Programador.:computer:
-* Estudante.:books:
+<h1 align="center">Hi 👋, I'm Epifânio Francisco</h1>
+<h3 align="center">A passionate frontend developer from Angola</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=epifaniofrancisco&label=Profile%20views&color=0e75b6&style=flat" alt="epifaniofrancisco" /> </p>
+
+- 🔭 I’m currently working on **Web Development Projects**
+
+- 🌱 I’m currently learning **Web Development**
+
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 👨‍💻 All of my projects are available at [https://epifaniofrancisco.vercel.app/](https://epifaniofrancisco.vercel.app/)
+
+- 📫 How to reach me **epifaniofrancisco03@gmail.com**
+
+- 📄 Know about my experiences [https://epifaniofrancisco.vercel.app/files/epifaniofrancisco-cv.pdf](https://epifaniofrancisco.vercel.app/files/epifaniofrancisco-cv.pdf)
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/epifaniofrancisco/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:epifaniofrancisco03@gmail.com)
+
 <div>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=epifaniofrancisco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=epifaniofrancisco&layout=compact&langs_count=7&theme=react"/>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643da051e272577374908d67?variant=dark)](https://roadmap.sh)
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Epifanio-JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Epifanio-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Epifanio-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Epifanio-Dart" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt="Epifanio-Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt="Epifanio-Python" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Epifanio-C" height="30" src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white"> 
-  <img align="center" alt="Epifanio-CSharp" height="30" src="https://img.shields.io/badge/C%23-8C1CFC?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
+<h3 align="left">Languages and Tools:</h3>
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 ##
-
-<div> 
-  <a href="https://www.facebook.com/ACEDE-105470194242383" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/epif%C3%A2nio-francisco-3a44741ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:epifaniofrancisco03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/epifanio_francisco29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/epifaniofrancisco/epifaniofrancisco/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+![Snake animation](https://github.com/epifaniofrancisco/epifaniofrancisco/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 epifaniofrancisco/epifaniofrancisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
